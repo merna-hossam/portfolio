@@ -7,17 +7,21 @@ Bachelors degree of Computer and Data Science
 -Sync Interns
   Machine Learning Intern | 04/2023 - 05/2023
   Developed and implemented machine learning algorithms, conducting data analysis
+  
 -Faculty Training
   Game Design | 08/2022 - 09/2022
   Gained game development fundamentals, unity engine proficiency, hands-on game projects, and 
   collaboration and teamwork
+  
 -IOT Training
   App soft | 05/2021 - 06/2021
   Gained expertise in sensor technology, embedded systems, cloud computing, data analytics,and    among other key IoT concepts.
+  
 -IBM
   AI Training | 08/2020 - 10/2020
   Engaged in advanced AI training with IBM, gaining valuable skills in cutting-edge     
   technologies and applications.
+  
 -Faculty Training
   Game Design | 08/2022 - 09/2022
   Gained game development fundamentals, unity engine proficiency, hands-on game projects, and 
