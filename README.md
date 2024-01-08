@@ -43,12 +43,16 @@ project showcased a holistic understanding of web development and financial syst
 ### Extra-curricular Activities
 Media Staff Volunteer at Bibliotheca Alexandria (ICT Event)
 Contributed to the event's success by effectively promoting and highlighting its key moments and impactful discussions.
+
 Problem Solver Team Member at Omdena
 Contributed to real-world problem-solving through programming and data analysis expertise.
+
 Media Staff Volunteer at Safwa Fcds
 Gained valuable teamwork and communication skills while collaborating with fellow volunteers and event organizers.
+
 Media Staff Volunteer at Hackerrank Fcds
 Assisted in media coverage, documenting the event's activities through photography, videography, and social media updates.
+
 Programming Contestant at ICPC
 Took part in ICPC programming competitions for three consecutive years, representing my faculty with dedication and
 passion.
